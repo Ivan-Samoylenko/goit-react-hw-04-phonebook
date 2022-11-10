@@ -1,0 +1,1 @@
+export { localStorageAPI } from './localStorage';
